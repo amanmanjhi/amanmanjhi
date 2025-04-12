@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanmanjhi
 - 👀 I’m interested in FRONTEND DEVELOPMENT
-- 🌱 I’m currently learning FULL-STACK DEVELOPMENT
+- 🌱 I’m currently learning MERN-STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on project which will help me level up learning experiences
 - 📫 How to reach me amanshn2001@gmail.com
 - 😄 Pronouns: he/him
